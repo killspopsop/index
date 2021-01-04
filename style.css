@@ -76,7 +76,7 @@ header {
 }
 /*resposive*/
 
-@media (max-width:768px) {
+@media (max-width:900px) {
 	.wrapper {
 		width: 100%;
 	}
