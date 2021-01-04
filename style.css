@@ -78,7 +78,7 @@ header {
 
 @media (max-width:900px) {
 	.wrapper {
-		width: 100%;
+		width: 150%;
 	}
 	.logo {
 		float: none;
